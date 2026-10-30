@@ -5,4 +5,4 @@ on:
           - main
     paths:
           - allEQ-master.zip
-          - github/workflows/android.yml
+          - .github/workflows/android.yml
