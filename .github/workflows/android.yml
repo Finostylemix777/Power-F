@@ -1,0 +1,8 @@
+name : build power F apk
+on:
+  push:
+    branches: 
+          - main
+    paths:
+          - allEQ-master.zip
+          - github/workflows/android.yml
